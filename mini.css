@@ -10,7 +10,11 @@ body {
 	margin: 0px 0px 0px 0px;
 	padding: 0;
 	color: #000;
+<<<<<<< HEAD:mini.css
 	background-color: black;
+=======
+	background-color: #1ff;
+>>>>>>> upstream/master:mini.css
 }
 ul, ol, dl { 
 	padding: 0;
